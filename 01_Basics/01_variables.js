@@ -9,3 +9,8 @@
 
 // var let const ko 1 sath decalre karney ka assan tariqa 
 // console.table([accountId, accountEmail, accountPassword, accountCity]);
+
+/*
+Prefere not to use var
+because of issue in block scope and functiona space
+*/
